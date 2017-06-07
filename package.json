@@ -1,0 +1,19 @@
+{
+  "name": "jott",
+  "version": "1.0.0",
+  "description": "simple notes app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Scott Stewart",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "mongodb": "^2.2.28"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
